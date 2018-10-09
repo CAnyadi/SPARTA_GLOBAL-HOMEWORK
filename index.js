@@ -45,7 +45,7 @@ else {
 }
 
 
-//   console.log("Is it power or square root")
+  // console.log("Is it power or square root")
 
 
 
